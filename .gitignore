@@ -1,0 +1,14 @@
+main
+main_i
+
+
+.vscode/
+.idea/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+main.dSYM/
+main_i.dSYM/
